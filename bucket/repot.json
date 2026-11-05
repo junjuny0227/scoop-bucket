@@ -1,13 +1,13 @@
 {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "description": "Scan a development machine and export a script that restores it",
     "homepage": "https://github.com/junjuny0227/Repot",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/junjuny0227/Repot/releases/download/v0.8.0/repot-cli-0.8.0-x86_64-pc-windows-msvc.zip",
-            "hash": "7bd0f6c569566f92d51f1534da421fc108a91602550c6a0d39e8d3d038c31e94",
-            "extract_dir": "repot-cli-0.8.0-x86_64-pc-windows-msvc"
+            "url": "https://github.com/junjuny0227/Repot/releases/download/v0.9.0/repot-cli-0.9.0-x86_64-pc-windows-msvc.zip",
+            "hash": "58cda8be9376dc6233ede81149c6ff5630598a664da38b59f75daab6f1fd484d",
+            "extract_dir": "repot-cli-0.9.0-x86_64-pc-windows-msvc"
         }
     },
     "bin": "repot.exe",
